@@ -1,4 +1,6 @@
-# API Request Serialization
+# API Request Validation
+
+This repository contains the code for the example described in the blog.
 
 ### Installing and executing
 
